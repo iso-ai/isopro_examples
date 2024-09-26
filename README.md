@@ -1,5 +1,4 @@
-# isopro_examples
-# isopro_examples
+# IsoPro Examples 
 
 This repository contains example Jupyter notebooks demonstrating the usage of the `isopro` package, a Python library for Intelligent Simulation Orchestration of Large Language Models.
 
