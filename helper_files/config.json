@@ -1,0 +1,8 @@
+{
+    "anthropic_api_key": "ANTHROPIC_API_KEY",
+    "learning_rate": 3e-4,
+    "pretrain_epochs": 10,
+    "show_visualization": true,
+    "training_episodes": 100,
+    "evaluation_episodes": 10
+}
